@@ -20,11 +20,6 @@ A Python-based utility to open and analyze JSON log files, generate a summary of
 - `json` (built-in)
 - Optional: `dotenv` for managing email credentials securely
 
-Install additional packages with:
-
-```bash
-pip install -r requirements.txt
-
 ---
 
 ## 🛠️ Usage
