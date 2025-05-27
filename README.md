@@ -22,6 +22,7 @@ A Python-based utility to open and analyze JSON log files, generate a summary of
 
 Install additional packages with:
 
+```bash
 pip install -r requirements.txt
 
 ---
