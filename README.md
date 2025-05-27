@@ -24,3 +24,7 @@ Install additional packages with:
 
 ```bash
 pip install -r requirements.txt
+
+## 🛠️ Usage
+
+python log_analyzer.py /path/to/logfile.json
