@@ -1,0 +1,2 @@
+INFO DeviceID:9999 Test:7777777 Result:Pass
+INFO DeviceID:5699 Test:7789577 Result:Pass
